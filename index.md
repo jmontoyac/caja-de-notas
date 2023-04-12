@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Caja de notas
 ---
 
-# Agregando algo de contenido en formato Markdown
+## Notas random de lo que se vaya presentando
